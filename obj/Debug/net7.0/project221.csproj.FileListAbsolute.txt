@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\project221\project221\bin\Debug\net7.0\project221.exe
+C:\Users\Administrator\Desktop\project221\project221\bin\Debug\net7.0\project221.deps.json
+C:\Users\Administrator\Desktop\project221\project221\bin\Debug\net7.0\project221.runtimeconfig.json
+C:\Users\Administrator\Desktop\project221\project221\bin\Debug\net7.0\project221.dll
+C:\Users\Administrator\Desktop\project221\project221\bin\Debug\net7.0\project221.pdb
+C:\Users\Administrator\Desktop\project221\project221\obj\Debug\net7.0\project221.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\project221\project221\obj\Debug\net7.0\project221.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\project221\project221\obj\Debug\net7.0\project221.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\project221\project221\obj\Debug\net7.0\project221.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\project221\project221\obj\Debug\net7.0\project221.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\project221\project221\obj\Debug\net7.0\project221.dll
+C:\Users\Administrator\Desktop\project221\project221\obj\Debug\net7.0\refint\project221.dll
+C:\Users\Administrator\Desktop\project221\project221\obj\Debug\net7.0\project221.pdb
+C:\Users\Administrator\Desktop\project221\project221\obj\Debug\net7.0\project221.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\project221\project221\obj\Debug\net7.0\ref\project221.dll
